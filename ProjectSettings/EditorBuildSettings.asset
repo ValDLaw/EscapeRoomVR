@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EscapeRoom.unity
+    guid: 976f054076b2944148c6a48fb57d5074
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 055214a4ef77e45e086acfdb8555a884, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ddaf9b7852d87404ea989fee0db2e387, type: 2}
